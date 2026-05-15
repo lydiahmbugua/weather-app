@@ -2,7 +2,7 @@
 
 A sleek, responsive web application that allows users to check real-time weather conditions and forecasts for cities worldwide. Built as part of my front-end development journey to practice asynchronous JavaScript, API integration, and dynamic DOM manipulation.
 
-[**Live Demo 🚀**](https://yourusername.github.io/weather-app/)
+[**Live Demo 🚀**](https://lydiahmbugua.github.io/weather-app/)
 
 ---
 
