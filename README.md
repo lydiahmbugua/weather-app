@@ -13,6 +13,8 @@ A sleek, responsive web application that allows users to check real-time weather
 * **Toggle Temperature Units:** Easily switch between Celsius and Fahrenheit.
 * **Dynamic Backgrounds:** The app's background UI changes depending on the current weather condition (e.g., rainy, sunny, snowy).
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+* **History:** Keeps tabs of last five searches and a click gets the weather from them.
+* **New City Counter:** Counts the number of unique cities input.
 
 ---
 
